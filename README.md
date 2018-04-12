@@ -1,3 +1,5 @@
+# How to install FOSUserBundle with Symfony 4
+
 FOSUserBundle is certainly the most popular bundle for Symfony to manage users.
 
 With the last major version of Symfony (4), the organization of the code of the framework is a little different. The official documentation isn't clear about the process to install this bundle.
